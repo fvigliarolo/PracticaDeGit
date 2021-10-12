@@ -14,3 +14,11 @@ header{
     justify-content: center;
     align-content: center;
 }
+
+article{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: goldenrod ;
+    height: 500px;
+    width: 100%;
+}
