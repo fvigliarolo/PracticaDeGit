@@ -18,7 +18,13 @@ header{
 article{
     font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
-    background-color: goldenrod ;
+    background-color: darkcyan ;
     height: 500px;
+    width: 100%;
+}
+
+footer{
+    background-color: orange;
+    height: 30vh;
     width: 100%;
 }
